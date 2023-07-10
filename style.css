@@ -94,3 +94,20 @@
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
+/* page 4 style instgram */
+.p4des{
+    text-align: center;
+    margin-top: 100px;
+}
+.p4des2{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(121, 119, 119);
+    margin: 20px 0 35px;
+}
+.insta-uploads{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 180px 50px;
+
+}
