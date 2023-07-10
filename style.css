@@ -10,7 +10,7 @@
     justify-content: space-around;
     /* gap: 50px; */
     align-items: center;
-    background-color: rgb(241, 205, 219);
+    background-color: #f3ced7;
 }
 .header-des{
     width: 30%;
@@ -81,10 +81,11 @@
 .page3{
     height: 620px;
     width: 1922px;
-    background-color: rgb(240, 192, 200);
+    background-color: rgb(250, 233, 236);
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    gap: 300px;
 }
 .hot-deal-des{
     text-align: center;
@@ -107,8 +108,10 @@
 }
 .insta-uploads{
     display: flex;
-    justify-content: space-around;
-    margin: 10px 180px 120px;
+    justify-content: center;
+    gap: 23px;
+    margin: 20px 0 100px;
+    
 
 }
 /* subscriber box style */
