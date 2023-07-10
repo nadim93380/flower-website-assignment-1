@@ -108,6 +108,34 @@
 .insta-uploads{
     display: flex;
     justify-content: space-around;
-    margin: 10px 180px 50px;
+    margin: 10px 180px 120px;
 
+}
+/* subscriber box style */
+.email-box{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.msg-box{
+    width: 700px;
+    border: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.subs-box{
+    text-align: center;
+    
+    background-image: url('./image/Rectangle\ 9.png');
+    background-position: center;
+    background-size: cover;
+    height: 449px;
+    width: 1440px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.middle{
+    width: 800px;
+    margin: auto;
 }
