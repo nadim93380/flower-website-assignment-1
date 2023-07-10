@@ -51,8 +51,9 @@
 }
 .feature-container{
     display: flex;
-    justify-content: center;
-    gap: 20px;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
     /* height: 610px; */
     /* width: 1410px; */
 }
@@ -71,6 +72,25 @@
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 30px;
+    margin-bottom: 40px;
 }
-
-
+/* Hot deal section style */
+.red{
+    color: rgb(209, 27, 87);
+}
+.page3{
+    height: 620px;
+    width: 1922px;
+    background-color: rgb(240, 192, 200);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hot-deal-des{
+    text-align: center;
+}
+.p3des1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
