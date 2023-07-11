@@ -61,7 +61,7 @@
     display: flex;
     justify-content: center;
     margin: auto;
-    gap: 10px;
+    gap: 20px;
     
 }
 
@@ -86,7 +86,7 @@
     font-size: 20px;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
-    margin: -20px 220px 50px;
+    margin: -20px 220px 100px;
 }
 .img1{
     margin-top: 120px;
@@ -108,7 +108,26 @@
 .bg3{
     background-color: rgb(192, 245, 223);
 }
-
+/* our service section */
+.our-service{
+    height: 320px;
+    width: 1440px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(211, 209, 209);
+    border-radius: 5px;
+}
+.our-service-des{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgb(124, 121, 121);
+    margin-top: 10px;
+}
+.our-service-item{
+    text-align: center;
+}
 /* Hot deal section style */
 .red{
     color: rgb(209, 27, 87);
@@ -121,6 +140,7 @@
     justify-content: center;
     align-items: center;
     gap: 300px;
+    margin-top: 60px;
 }
 .hot-deal-des{
     text-align: center;
