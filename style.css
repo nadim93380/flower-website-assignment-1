@@ -10,7 +10,7 @@
     justify-content: space-around;
     /* gap: 50px; */
     align-items: center;
-    background-color: #f3ced7;
+    background-color: #f8dce4;
 }
 .header-des{
     width: 30%;
@@ -35,6 +35,9 @@
     font-weight: bold;
     border: none;
     border-radius: 5px;
+}
+.btn:hover{
+    box-shadow: 2px 2px 8px palevioletred;
 }
 .header-img{
     margin-top: 53px;
@@ -65,7 +68,7 @@
 .feature-flower{
     border: none;
     border-radius: 300px 300px 0 0;
-    background-color: pink;
+    background-color: rgb(245, 206, 213);
     width: 464px;
     height: 538px;
     
@@ -73,7 +76,7 @@
 .img-bg{
     height: 538px;
     width: 464px;
-    background-color: pink;
+    background-color: rgb(255, 219, 224);
     border: none;
     border-radius: 300px 300px 0 0;
 }
@@ -83,7 +86,7 @@
     font-size: 20px;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
-    margin: -10px 200px 40px;
+    margin: -20px 220px 50px;
 }
 .img1{
     margin-top: 120px;
