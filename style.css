@@ -5,16 +5,14 @@
 /* Header page style */
 .header-container{
     height: 850px;
-    /* width: 90%; */
     display: flex;
     justify-content: space-around;
-    /* gap: 50px; */
     align-items: center;
     background-color: #f8dce4;
 }
 .header-des{
-    width: 30%;
-    margin-left: 50px;
+    width: 40%;
+    margin-left: 60px;
 }
 .des-1{
     font-size: 55px;
@@ -114,8 +112,9 @@
     width: 1440px;
     margin: auto;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
+    gap: 250px;
     background-color: rgb(211, 209, 209);
     border-radius: 5px;
 }
